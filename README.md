@@ -10,6 +10,7 @@
 [![](https://img.shields.io/badge/HackerRank-giuzambot-blue)](https://www.hackerrank.com/giuzambot)
 [![](https://img.shields.io/badge/Replit-giuzambot-blue)](https://replit.com/@GiuZambot)
 [![](https://img.shields.io/badge/LinkTree-giuzambot-blue)](https://linktr.ee/GiuZambot)
+[![](https://img.shields.io/badge/Translate-english-blue)](https://github.com/GiuZambot/GiuZambot/blob/main/README-ENG.md)
 
 ## Sobre:
  * Estudante de programação Full-Stack!
