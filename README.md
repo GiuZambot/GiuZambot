@@ -1,8 +1,6 @@
-# Olá, eu sou a Giu Zambot!
-
 <div align="center">
   <a href="https://linktr.ee/GiuZambot"> 
-    <img title="Clique para meus links, blog, livros, artes e mais..." src="https://github.com/GiuZambot/GiuZambot/blob/main/img/giu_zambot_logo.png" width="230px">
+    <img title="Clique para meus links, blog, livros, artes e mais..." src="https://github.com/GiuZambot/GiuZambot/blob/main/img/welcome!.gif" width="100%">
   </a>
 </div>
 
@@ -40,6 +38,7 @@ Saiba mais clicando na logo!
 ## Meus Status:  
 
 <p float="left" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuzambot&theme=radical&layout=compact" height="150px" />   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuzambot&theme=radical&layout=compact" height="150px" />
+  &nbsp; &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=giuzambot&show_icons=true&title_color=BBB&icon_color=BBB&text_color=BBB&bg_color=151515&include_all_commits=true" height="150px" /> 
 </p>
