@@ -46,4 +46,4 @@ Saiba mais clicando na logo!
 
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=giuzambot&bg_color=141321&color=f7418a&line=b83d62&point=583f79&area=true&hide_border=false" height="250px" /> 
-</p?
+</p>
