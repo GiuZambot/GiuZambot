@@ -1,7 +1,10 @@
-<h2> Olá, eu sou a Giu Zambot! <img src="https://media.giphy.com/media/9qnqNwGQlzE8unN9a4/giphy.gif" width="50"></h2>
-<a href="https://linktr.ee/GiuZambot"> 
-  <img title="Clique para meus links, blog, livros, artes e mais..." align='right' src="https://2.bp.blogspot.com/-fwi5hAUrb2c/X4Y7QIt9YDI/AAAAAAAAEO8/tIsCQZs4YNwIgA7VdEElfbLpk78ReIhpgCK4BGAYYCw/s302/logogiu.png" width="230">
-</a>
+# Olá, eu sou a Giu Zambot!
+
+<div align="center">
+  <a href="https://linktr.ee/GiuZambot"> 
+    <img title="Clique para meus links, blog, livros, artes e mais..." src="https://github.com/GiuZambot/GiuZambot/blob/main/img/giu_zambot_logo.png" width="230px">
+  </a>
+</div>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=GiuZambot.GiuZambot)
 [![](https://img.shields.io/badge/LinkedIn-giuzambot-blue)](https://www.linkedin.com/in/giuzambot/)
@@ -10,20 +13,33 @@
 [![](https://img.shields.io/badge/Replit-giuzambot-blue)](https://replit.com/@GiuZambot)
 [![](https://img.shields.io/badge/LinkTree-giuzambot-blue)](https://linktr.ee/GiuZambot)
 
-## Sobre 
-- Em breve <img src="https://media.giphy.com/media/F73KLZL9eAfDcDQFAt/giphy.gif" width="80">
+## Sobre:
+ * Estudante de programação Full-Stack!
+ * Crio artes eletrônicas, vetoriais, meshes 3D, trilhas etc.
+ * Sou escritora de ficção científica, fantasia, crônicas, poesias e contos.
 
-**Languages and Tools:**  
+Saiba mais clicando na logo! 
 
-<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+## Linguagens e ferramentas de meu interesse:
+<p float="left">
+  <img title="React" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+  <img title="React" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  <img title="Node.js" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+  <img title="MySQL" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+  <img title="GIT" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+  <img title="Terminal" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+  <img title="VS Code" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img title="JavaScript" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img title="HTML" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+  <img title="CSS" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+  <img title="Dart" height="32" src="https://github.com/GiuZambot/GiuZambot/blob/main/img/dart.svg">
+  <img title="Flutter" height="32" src="https://github.com/GiuZambot/GiuZambot/blob/main/img/flutter.svg">
+  <img title="TypeScript" height="32" src="https://github.com/GiuZambot/GiuZambot/blob/main/img/typescript.svg">
+ </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuzambot&theme=radical&hide=glsl,python" />
+## Meus Status:  
 
-<img src="https://github-readme-stats.vercel.app/api?username=giuzambot&show_icons=true&title_color=BBB&icon_color=BBB&text_color=BBB&bg_color=151515" alt="Status" /> 
+<p float="left" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuzambot&theme=radical&layout=compact" height="150px" />   
+  <img src="https://github-readme-stats.vercel.app/api?username=giuzambot&show_icons=true&title_color=BBB&icon_color=BBB&text_color=BBB&bg_color=151515&include_all_commits=true" height="150px" /> 
+</p>
