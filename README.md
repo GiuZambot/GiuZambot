@@ -16,11 +16,15 @@
  * Estudante de programação Full-Stack!
  * Crio artes eletrônicas, vetoriais, meshes 3D, trilhas etc.
  * Sou escritora de ficção científica, fantasia, crônicas, poesias e contos.
+ * Saiba mais clicando na logo!
 
-Saiba mais clicando na logo! 
+## Projetos atuais
+  * ClultSocial
+  * PacDot
+  * My Litlle Chat
 
 ## Meus interesses:
-  - Linguagens, frameworks e cia
+  * Linguagens, frameworks e cia
     <p float="left">
       <img title="JavaScript" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
       <img title="JavaScript" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">   
@@ -31,13 +35,13 @@ Saiba mais clicando na logo!
       <img title="HTML" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
       <img title="CSS" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
     </p>
-  - Databases
+  * Databases
     <p float="left">
       <img title="MySQL" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
       <img title="SQL" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
       <img title="PostgreSQL" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
     </p>
-  - Ferramentas
+  * Ferramentas
     <p float="left">
       <img title="GIT" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
       <img title="Terminal" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
