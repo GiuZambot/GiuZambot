@@ -10,10 +10,11 @@ jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
-      echo ${{secrets.SECRET_TOKEN}} | sed 's/./& /g'
-      
+          
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }
-      
+      - name: Step 1 - Echo out a GitHub Actions Secret to the logs
+        run: |
+          echo ${{secrets.SECRET_TOKEN}} | sed 's/./& /g' 
