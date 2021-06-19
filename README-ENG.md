@@ -57,6 +57,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=giuzambot&show_icons=true&title_color=BBB&icon_color=BBB&text_color=BBB&bg_color=151515&include_all_commits=true" height="150px" /> 
 </p>
 
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=giuzambot&bg_color=141321&color=f7418a&line=b83d62&point=583f79&area=true&hide_border=false" height="250px" /> 
-</p?
+<p float="left" align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=giuzambot&bg_color=141321&color=f7418a&line=b83d62&point=583f79&area=true&hide_border=false" width="" height="180px" />
+  &nbsp; &nbsp;
+  <img src="https://wakatime.com/share/@GiuZambot/8fb9f87b-24d0-4ea0-a810-5c7434396ea8.svg" height="180px">
+</p>
