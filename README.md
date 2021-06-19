@@ -60,5 +60,5 @@
 <p float="left" align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=giuzambot&bg_color=141321&color=f7418a&line=b83d62&point=583f79&area=true&hide_border=false" width="" height="180px" />
   &nbsp; &nbsp;
-  <img src="https://wakatime.com/share/@f4c47eff-1865-493d-9fdd-58464aed559f/b8799c81-7dae-4baf-90f7-dcc55240a931.svg" height="180px">
+  <img src="https://wakatime.com/share/@GiuZambot/8fb9f87b-24d0-4ea0-a810-5c7434396ea8.svg" height="180px">
 </p>
