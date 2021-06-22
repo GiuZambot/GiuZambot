@@ -19,10 +19,12 @@
   * I am writer of scientific fiction, fantasy, chronicles, poetry and shot stories.
   * Learn more by clicking on the logo!
 
-## Current Projects 
-  * ClultSocial
-  * PacDot
-  * My Litlle Chat
+## Projetos atuais
+  * ClultSocial (flutter)
+  * My new blog (flutter)
+  * PacDot (node + socket.io)
+  * My Litlle Chat (node + socket.io)
+  * Mini Game Dev Learning (node + express + postgre)
 
 ## My interests:
   * Languages, frameworks and company
