@@ -9,7 +9,6 @@
 [![](https://img.shields.io/badge/LinkedIn-giuzambot-blue)](https://www.linkedin.com/in/giuzambot)
 [![](https://img.shields.io/badge/Twitter-GiuZambot-blue)](https://twitter.com/GiuZambot)
 [![](https://img.shields.io/badge/HackerRank-giuzambot-blue)](https://www.hackerrank.com/giuzambot)
-[![](https://img.shields.io/badge/Replit-giuzambot-blue)](https://replit.com/@GiuZambot)
 [![](https://img.shields.io/badge/Gmail-giuzambot@gmail.com-blue)](mailto:giuzambot@gmail.com)
 [![](https://img.shields.io/badge/Translate-english-blue)](https://github.com/GiuZambot/GiuZambot/blob/main/README-ENG.md)
 
