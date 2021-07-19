@@ -5,7 +5,7 @@
 </div>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=GiuZambot.GiuZambot)
-[![](https://img.shields.io/badge/LinkTree-GiuZambot-blue)](https://linktr.ee/GiuZambot)
+[![](https://img.shields.io/badge/Links-GiuZambot-blue)](https://giuzambot.bio.link/)
 [![](https://img.shields.io/badge/LinkedIn-giuzambot-blue)](https://www.linkedin.com/in/giuzambot)
 [![](https://img.shields.io/badge/Twitter-GiuZambot-blue)](https://twitter.com/GiuZambot)
 [![](https://img.shields.io/badge/HackerRank-giuzambot-blue)](https://www.hackerrank.com/giuzambot)
