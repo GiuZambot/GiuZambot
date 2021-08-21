@@ -19,6 +19,7 @@
  * Saiba mais clicando na logo!
 
 ## Projetos atuais
+  * Merdy Exotic Language
   * ClultSocial (flutter)
   * My new blog (flutter)
   * PacDot (node + socket.io)
