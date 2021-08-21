@@ -22,7 +22,7 @@
   * ClultSocial (flutter)
   * My new blog (flutter)
   * PacDot (node + socket.io)
-  * My Litlle Chat (node + socket.io)
+  * JS Explorer ((Javascript + React)
   * Mini Game Dev Learning (node + express + postgre)
 
 ## Meus interesses:
