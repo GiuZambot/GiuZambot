@@ -5,6 +5,7 @@
 </div>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=GiuZambot.GiuZambot)
+[![wakatime](https://wakatime.com/badge/user/f4c47eff-1865-493d-9fdd-58464aed559f.svg)](https://wakatime.com/@f4c47eff-1865-493d-9fdd-58464aed559f)
 [![](https://img.shields.io/badge/Links-GiuZambot-blue)](https://giuzambot.bio.link/)
 [![](https://img.shields.io/badge/LinkedIn-giuzambot-blue)](https://www.linkedin.com/in/giuzambot)
 [![](https://img.shields.io/badge/Twitter-GiuZambot-blue)](https://twitter.com/GiuZambot)
