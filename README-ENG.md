@@ -1,3 +1,4 @@
+[![](https://img.shields.io/badge/Translate-pt_br-blue)](https://github.com/GiuZambot)
 <div align="center">
   <a href="https://linktr.ee/GiuZambot"> 
     <img title="Clique para meus links, blog, livros, artes e mais..." src="https://github.com/GiuZambot/GiuZambot/blob/main/img/welcome!.gif" width="100%">
@@ -14,7 +15,7 @@
 [![](https://img.shields.io/badge/Translate-pt_br-blue)](https://github.com/GiuZambot)
 
 ## About:
-  * Full-Stack Programming Student!
+  * Student in Software Engineering Full Stack!
   * I make electronic arts, vetorials, 3D meshes, sound tracks etc.
   * I am writer of scientific fiction, fantasy, chronicles, poetry and shot stories.
   * Learn more by clicking on the logo!
@@ -41,23 +42,30 @@
       <img title="Python" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
       <img title="Node.js" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
       <img title="csharp" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
+      <img title="Go" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">
+      <img title="Java" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
       <img title="HTML" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
       <img title="CSS" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+      <img title="VS Code" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
     </p>
   * Databases
     <p float="left">
-      <img title="MySQL" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-      <img title="SQL" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
+      <img title="MySQL" height="32" src="https://github.com/amido/azure-vector-icons/raw/master/renders/mysql-database.png">
+      <img title="SQL" height="32" src="https://github.com/amido/azure-vector-icons/blob/master/renders/sql-database-sql-azure.png">
       <img title="PostgreSQL" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+      <img title="Firebase" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
     </p>
   * Tools
     <p float="left">
       <img title="GIT" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
       <img title="Terminal" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+      <img title="Bash" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
       <img title="VS Code" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+      <img title="VS Community" height="32" src="https://github.com/amido/azure-vector-icons/raw/master/renders/visual-studio-online.png" />
       <img title="Docker" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
       <img title="Heroku" height="32" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png">
       <img title="Vercel" height="32" src="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/vercel/vercel.png">
+      <img title="Azure" height="32" src="https://github.com/amido/azure-vector-icons/raw/master/renders/microsoft-azure.png" />
     </p>
 
 ## My Status:  
