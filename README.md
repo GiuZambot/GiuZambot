@@ -1,3 +1,5 @@
+
+ [![](https://img.shields.io/badge/Translate-english-blue)](https://github.com/GiuZambot/GiuZambot/blob/main/README-ENG.md)
 <div align="center">
   <a href="https://linktr.ee/GiuZambot"> 
     <img title="Clique para meus links, blog, livros, artes e mais..." src="https://github.com/GiuZambot/GiuZambot/blob/main/img/welcome!.gif" width="100%">
@@ -11,10 +13,10 @@
 [![](https://img.shields.io/badge/Twitter-GiuZambot-blue)](https://twitter.com/GiuZambot)
 [![](https://img.shields.io/badge/HackerRank-giuzambot-blue)](https://www.hackerrank.com/giuzambot)
 [![](https://img.shields.io/badge/Gmail-giuzambot@gmail.com-blue)](mailto:giuzambot@gmail.com)
-[![](https://img.shields.io/badge/Translate-english-blue)](https://github.com/GiuZambot/GiuZambot/blob/main/README-ENG.md)
 
 ## Sobre:
- * Estudante de programação Full-Stack!
+ * Estudante em Engenharia de Software Full Stack!
+ * Adepta do Long Life Learning
  * Crio artes eletrônicas, vetoriais, meshes 3D, trilhas etc.
  * Sou escritora de ficção científica, fantasia, crônicas, poesias e contos.
  * Saiba mais clicando na logo!
@@ -24,7 +26,7 @@
   * ClultSocial (flutter)
   * My new blog (flutter)
   * PacDot (node + socket.io)
-  * JS Explorer ((Javascript + React)
+  * JEP (Javascript + React)
   * Mini Game Dev Learning (node + express + postgre)
 
 ## Meus interesses:
@@ -41,14 +43,18 @@
       <img title="Python" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
       <img title="Node.js" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
       <img title="csharp" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
+      <img title="Go" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">
+      <img title="Java" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
       <img title="HTML" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
       <img title="CSS" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+      <img title="VS Code" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
     </p>
   * Databases
     <p float="left">
       <img title="MySQL" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-      <img title="SQL" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
+      <img title="SQL" height="32" src="https://github.com/amido/azure-vector-icons/blob/master/renders/sql-database-sql-azure.png">
       <img title="PostgreSQL" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+      <img title="Firebase" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
     </p>
   * Ferramentas
     <p float="left">
@@ -56,9 +62,11 @@
       <img title="Terminal" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
       <img title="Bash" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
       <img title="VS Code" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+      <img title="VS Community" height="32" src="https://github.com/amido/azure-vector-icons/raw/master/renders/visual-studio-online.png" />
       <img title="Docker" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
       <img title="Heroku" height="32" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png">
       <img title="Vercel" height="32" src="https://raw.githubusercontent.com/github/explore/3c66f1237835e0b877190fbea528d0ebece7bccf/topics/vercel/vercel.png">
+      <img title="Azure" height="32" src="https://github.com/amido/azure-vector-icons/raw/master/renders/microsoft-azure.png" />
     </p>
 
 ## Meus Status:  
