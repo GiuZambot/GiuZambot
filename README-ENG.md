@@ -1,5 +1,5 @@
 [![](https://img.shields.io/badge/Translate-pt_br-blue)](https://github.com/GiuZambot)
-[![](https://img.shields.io/badge/Personal-Website-pink)](https://giuzambot.vercel.app/)
+[![](https://img.shields.io/badge/Personal-Website-pink)](https://www.giuzambot.com/)
 
 <div align="center">
   <a href="https://linktr.ee/GiuZambot"> 
