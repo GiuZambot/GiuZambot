@@ -13,8 +13,8 @@
 [![](https://img.shields.io/badge/LinkedIn-giuzambot-blue)](https://www.linkedin.com/in/giuzambot)
 [![](https://img.shields.io/badge/Twitter-GiuZambot-blue)](https://twitter.com/GiuZambot)
 [![](https://img.shields.io/badge/HackerRank-giuzambot-blue)](https://www.hackerrank.com/giuzambot)
-[![](https://img.shields.io/badge/Gmail-giuzambot@gmail.com-blue)](mailto:giuzambot@gmail.com)
-[![](https://img.shields.io/badge/Translate-pt_br-blue)](https://github.com/GiuZambot)
+[![](https://img.shields.io/badge/email-contato@giuzambot.com-blue)](mailto:contato@giuzambot.com)
+
 
 ## About:
 A trans woman who loves the arts and technology. I have always worked with technology, using various technologies, from Fortran, Cobol, passing through the current ones and I continue to learn new technologies. 
