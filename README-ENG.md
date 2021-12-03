@@ -17,6 +17,8 @@
 [![](https://img.shields.io/badge/Translate-pt_br-blue)](https://github.com/GiuZambot)
 
 ## About:
+A trans woman who loves the arts and technology. I have always worked with technology, using various technologies, from Fortran, Cobol, passing through the current ones and I continue to learn new technologies. 
+
   * Student in Software Engineering Full Stack!
   * I make electronic arts, vetorials, 3D meshes, sound tracks etc.
   * I am writer of scientific fiction, fantasy, chronicles, poetry and shot stories.
