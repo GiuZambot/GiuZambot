@@ -1,5 +1,7 @@
 
  [![](https://img.shields.io/badge/Translate-english-blue)](https://github.com/GiuZambot/GiuZambot/blob/main/README-ENG.md)
+ [![](https://img.shields.io/badge/Personal-Website-pink)](https://giuzambot.vercel.app/)
+ 
 <div align="center">
   <a href="https://linktr.ee/GiuZambot"> 
     <img title="Clique para meus links, blog, livros, artes e mais..." src="https://github.com/GiuZambot/GiuZambot/blob/main/img/welcome!.gif" width="100%">
