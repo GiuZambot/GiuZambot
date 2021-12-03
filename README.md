@@ -17,6 +17,8 @@
 [![](https://img.shields.io/badge/Gmail-giuzambot@gmail.com-blue)](mailto:giuzambot@gmail.com)
 
 ## Sobre:
+Uma mulher trans amante das artes e da tecnologia. Sempre trabalhei com tecnologia, utilizando várias tecnologias, desde Fortran, Cobol, passando pelas atuais e continuo aprendento novas tecnologias.
+
  * Estudante em Engenharia de Software Full Stack!
  * Adepta do Long Life Learning
  * Crio artes eletrônicas, vetoriais, meshes 3D, trilhas etc.
