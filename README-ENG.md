@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/Personal-Website-pink)](https://www.giuzambot.com/)
 
 <div align="center">
-  <a href="https://linktr.ee/GiuZambot"> 
+  <a href="https://www.giuzambot.com/"> 
     <img title="Clique para meus links, blog, livros, artes e mais..." src="https://github.com/GiuZambot/GiuZambot/blob/main/img/welcome!.gif" width="100%">
   </a>
 </div>
