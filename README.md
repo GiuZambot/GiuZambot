@@ -20,18 +20,14 @@
 Uma mulher trans amante das artes e da tecnologia. Sempre trabalhei com tecnologia, utilizando várias tecnologias, desde Fortran, Cobol, passando pelas atuais e continuo aprendento novas tecnologias.
 
  * Estudante em Engenharia de Software Full Stack!
+ * Game dev
  * Adepta do Long Life Learning
  * Crio artes eletrônicas, vetoriais, meshes 3D, trilhas etc.
  * Sou escritora de ficção científica, fantasia, crônicas, poesias e contos.
  * Saiba mais clicando na logo!
 
-## Projetos atuais
-  * Merdy Exotic Language
-  * ClultSocial (flutter)
-  * My new blog (flutter)
-  * PacDot (node + socket.io)
-  * JEP (Javascript + React)
-  * Mini Game Dev Learning (node + express + postgre)
+## Projetos atuais:
+  * Tonya's Cause: Game RPG
 
 ## Meus interesses:
   * Linguagens, frameworks e cia
