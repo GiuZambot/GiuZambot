@@ -1,13 +1,6 @@
 
- [![](https://img.shields.io/badge/Translate-english-blue)](https://github.com/GiuZambot/GiuZambot/blob/main/README-ENG.md)
- [![](https://img.shields.io/badge/Personal-Website-pink)](https://www.giuzambot.com/)
- 
-<div align="center">
-  <a href="https://www.giuzambot.com/"> 
-    <img title="Clique para meus links, blog, livros, artes e mais..." src="https://github.com/GiuZambot/GiuZambot/blob/main/img/Welcome!.gif" width="100%">
-  </a>
-</div>
-
+[![](https://img.shields.io/badge/Translate-english-blue)](https://github.com/GiuZambot/GiuZambot/blob/main/README-ENG.md)
+[![](https://img.shields.io/badge/Personal-Website-pink)](https://www.giuzambot.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=GiuZambot.GiuZambot)
 [![wakatime](https://wakatime.com/badge/user/f4c47eff-1865-493d-9fdd-58464aed559f.svg)](https://wakatime.com/@f4c47eff-1865-493d-9fdd-58464aed559f)
 [![](https://img.shields.io/badge/Links-GiuZambot-blue)](https://giuzambot.bio.link/)
@@ -70,6 +63,9 @@ Uma amante das artes e da tecnologia. Sempre trabalhei com tecnologia, utilizand
     </p>
 
 ## Meus Status:  
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p float="left" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuzambot&theme=radical&layout=compact" height="150px" />
