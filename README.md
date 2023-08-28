@@ -65,6 +65,15 @@ Uma amante das artes e da tecnologia. Sempre trabalhei com tecnologia, utilizand
 ## Meus Status:  
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript       13 hrs 27 mins  ████████████▓░░░░░░░░░░░░   50.64 %
+C#               7 hrs 41 mins   ███████▒░░░░░░░░░░░░░░░░░   28.94 %
+SWIG             1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+Objective-C      1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+JSON             53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+```
+
 <!--END_SECTION:waka-->
 
 <p float="left" align="center">
