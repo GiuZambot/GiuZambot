@@ -64,6 +64,8 @@ Uma amante das artes e da tecnologia. Sempre trabalhei com tecnologia, utilizand
 
 ## Meus Status:  
 
+### Work Most Used Languges
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -76,6 +78,8 @@ JSON             53 mins         █░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+### My Github Most Used Languges
+
 <p float="left" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuzambot&theme=radical&layout=compact" height="150px" />
   &nbsp; &nbsp;
@@ -83,7 +87,5 @@ JSON             53 mins         █░░░░░░░░░░░░░░�
 </p>
 
 <p float="left" align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=giuzambot&bg_color=141321&color=f7418a&line=b83d62&point=583f79&area=true&hide_border=false" width="" height="180px" />
-  &nbsp; &nbsp;
   <img src="https://wakatime.com/share/@GiuZambot/8fb9f87b-24d0-4ea0-a810-5c7434396ea8.svg" height="180px">
 </p>
