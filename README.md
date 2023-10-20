@@ -69,11 +69,11 @@ Uma amante das artes e da tecnologia. Sempre trabalhei com tecnologia, utilizand
 <!--START_SECTION:waka-->
 
 ```txt
-C#               5 hrs 45 mins   ██████████▓░░░░░░░░░░░░░░   42.58 %
-TypeScript       4 hrs 56 mins   █████████░░░░░░░░░░░░░░░░   36.60 %
-Objective-C      1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
-YAML             58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
-SWIG             17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+C#               7 hrs 16 mins   ████████████░░░░░░░░░░░░░   48.48 %
+TypeScript       5 hrs 11 mins   ████████▓░░░░░░░░░░░░░░░░   34.59 %
+Objective-C      1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+JSON             46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Prolog           16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
