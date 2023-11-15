@@ -69,8 +69,8 @@ Uma amante das artes e da tecnologia. Sempre trabalhei com tecnologia, utilizand
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   40 mins         █████████████████████▓░░░   86.10 %
-XML    6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
+Dart   40 mins         ██████████████████████▒░░   88.94 %
+XML    4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
 ```
 
 <!--END_SECTION:waka-->
