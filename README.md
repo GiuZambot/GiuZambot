@@ -11,7 +11,7 @@
 ## Sobre:
 Uma amante das artes e da tecnologia. Sempre trabalhei com tecnologia, utilizando várias tecnologias, desde Fortran, Cobol, passando pelas atuais e continuo aprendento novas tecnologias.
 
- * Fullstack at <Ambev Tech/>
+ * Fullstack at Ambev Tech
  * Estudante em Superior em Inteligência Artificial: Cruzeiro do Sul
  * Game dev
  * Adepta do Long Life Learning
