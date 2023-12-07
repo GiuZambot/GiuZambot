@@ -21,7 +21,7 @@ Uma amante das artes e da tecnologia. Sempre trabalhei com tecnologia, utilizand
 ## Projetos atuais:
   * Tonya's Cause: Game RPG
   * CubeMontain: roguelike game
-  * [CodeLingo](mailto:contato@giuzambot.com)
+  * [CodeLingo](https://www.codelingo.com.br)
   * Fitpass
 
 ## Meus interesses:
