@@ -11,17 +11,17 @@
 ## Sobre:
 Uma amante das artes e da tecnologia. Sempre trabalhei com tecnologia, utilizando várias tecnologias, desde Fortran, Cobol, passando pelas atuais e continuo aprendento novas tecnologias.
 
- * Fullstack at Ambev Tech
+ * Fullstack React.js/.NET Core C# at Ambev Tech
  * Estudante em Superior em Inteligência Artificial: Cruzeiro do Sul
  * Game dev
  * Adepta do Long Life Learning
  * Crio artes eletrônicas, vetoriais, meshes 3D, trilhas etc.
- * Sou escritora de ficção científica, fantasia, crônicas, poesias e contos.
+ * Sou escritora de ficção científica, fantasia, crônicas, poesias e contos.  [Amazon](http://www.amazon.com.br/Giu-Zambot/e/B00H7AHQJO)
 
 ## Projetos atuais:
   * Tonya's Cause: Game RPG
   * CubeMontain: roguelike game
-  * Codelingo
+  * [CodeLingo](mailto:contato@giuzambot.com)
   * Fitpass
 
 ## Meus interesses:
