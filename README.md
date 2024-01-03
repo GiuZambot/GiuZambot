@@ -71,11 +71,11 @@ Uma amante das artes e da tecnologia. Sempre trabalhei com tecnologia, utilizand
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         5 hrs 49 mins   ██████████▒░░░░░░░░░░░░░░   41.26 %
-TypeScript   3 hrs 7 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
-C#           1 hr 53 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
-YAML         1 hr 37 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
-Binary       29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Dart         6 hrs 17 mins   ██████████▓░░░░░░░░░░░░░░   42.45 %
+TypeScript   3 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.11 %
+C#           1 hr 53 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
+YAML         1 hr 48 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
+Binary       29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
 ```
 
 <!--END_SECTION:waka-->
