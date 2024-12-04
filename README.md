@@ -19,8 +19,10 @@ Uma amante das artes e da tecnologia. Sempre trabalhei com tecnologia, utilizand
  * Sou escritora de ficção científica, fantasia, crônicas, poesias e contos.  [Amazon](http://www.amazon.com.br/Giu-Zambot/e/B00H7AHQJO)
 
 ## Projetos atuais:
-  * Tonya's Cause: Game RPG
-  * CubeMontain: roguelike game
+  * Space Nomad: Echoes
+  * Quabo Games: Plataform
+  * Quabo Games: Verbete
+  * Saving Capivaras
   * [CodeLingo](https://www.codelingo.com.br)
   * Fitpass
 
