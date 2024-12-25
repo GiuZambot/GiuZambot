@@ -73,7 +73,7 @@ Uma amante das artes e da tecnologia. Sempre trabalhei com tecnologia, utilizand
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript3   17 mins         █████████████████████████   100.00 %
+GDScript3   16 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
