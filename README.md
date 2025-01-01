@@ -73,7 +73,8 @@ Uma amante das artes e da tecnologia. Sempre trabalhei com tecnologia, utilizand
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other   3 mins          ██████████████░░░░░░░░░░░   55.43 %
+YAML    3 mins          ███████████░░░░░░░░░░░░░░   44.57 %
 ```
 
 <!--END_SECTION:waka-->
