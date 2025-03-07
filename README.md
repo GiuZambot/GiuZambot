@@ -73,8 +73,11 @@ Uma amante das artes e da tecnologia. Sempre trabalhei com tecnologia, utilizand
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript3   51 mins         ████████████████████▒░░░░   81.95 %
-Other       11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
+Python      1 hr 57 mins    ████████████▒░░░░░░░░░░░░   48.70 %
+GDScript3   51 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
+Text        33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
+Markdown    11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+Batchfile   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
 ```
 
 <!--END_SECTION:waka-->
