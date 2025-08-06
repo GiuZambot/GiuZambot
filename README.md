@@ -73,11 +73,11 @@ Uma amante das artes e da tecnologia. Sempre trabalhei com tecnologia, utilizand
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   21 hrs 53 mins  █████████████████▒░░░░░░░   69.63 %
-SCSS         6 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   19.91 %
-JSON         1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
-Markdown     48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-Other        33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+TypeScript   20 hrs 30 mins  █████████████████░░░░░░░░   67.93 %
+SCSS         6 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.66 %
+JSON         1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+Markdown     47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Other        33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
